@@ -1,0 +1,1 @@
+console.log('Loading JS code via node js');
