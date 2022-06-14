@@ -6,7 +6,7 @@ const forecast = require('../src/utils/forecast');
 
 const app = express();
 
-const staticPagePath = path.join(__dirname, '../public');
+// const staticPagePath = path.join(__dirname, '../public');
 const templatePath = path.join(__dirname, '../templates/views');
 const partialsPath = path.join(__dirname, '../templates/partials');
 
